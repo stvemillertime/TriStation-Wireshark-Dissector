@@ -1,4 +1,6 @@
-# TriStation
+# TriStation Dissector
+
+It's a TriStation Protocol Dissector, yo.
 
 It's more crude than #tubular, but here's a basic Wireshark LUA dissector for TriStation.
 
